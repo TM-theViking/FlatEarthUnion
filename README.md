@@ -1,2 +1,18 @@
-# FlatEarthUnion
-FlatEarthers unify, organise &amp; produce. Document your proofs &amp; make them freely available to others. Form a group of friends, organise your works, publish as a group to cover more sub-topics in one source-file. We want FEU in every country, thus all languages. Bridge the gap between those that know Earth's measured flat &amp; those that simply believe.
+# FlatEarthUnion (FEU) - Document Archive
+
+## 🏛️ Mission
+The FlatEarthUnion is the idea, step one is a decentralized archive dedicated to the preservation of documents authored by flatEarthers. Not everyone has the time to do the research themselves, at least this way they have a good foundation to start from.
+
+Our goal is not "debate", but the **documentation & archival of facts & logical arguments** for setting the foundation for future projects.
+
+## 📥 How to Contribute
+1.  **Fork** this repository.
+2.  Add your document to the appropriate category folder.
+3.  Submit a **Pull Request**.
+4.  Our moderators will review and merge the document into the main archive.
+
+## ⚠️ Disclaimer
+This repository is an **archival project**. The documents contained herein are preserved for historical and research purposes.
+
+---
+*Join the Union. Preserve the History.*
