@@ -1,2 +1,1 @@
-Natural Science vs Pseudoscience
-+ the Scientific Method
+(Natural Science vs Pseudoscience) + (the Scientific Method) documents
