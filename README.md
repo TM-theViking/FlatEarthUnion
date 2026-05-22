@@ -5,6 +5,13 @@ The FlatEarthUnion is the idea, step one is a decentralized archive dedicated to
 
 Our goal is not "debate", but the **documentation & archival of facts & logical arguments** for setting the foundation for future projects.
 
+## Archive Structure
+Documents are organised into the following broad categories:
+*   **Celestial-Navigation** ('FEU-Documents/Celestial-Navigation/')
+*   **Geography** ('FEU-Documents/Geography/')
+*   **NaturalScience-ScientificMethod** ('FEU-Documents/NaturalScience-ScientificMethod/')
+*   **Physics** ('FEU-Documents/Physics/')
+
 ## 📥 How to Contribute
 1.  **Fork** this repository.
 2.  Add your document to the appropriate category folder.
