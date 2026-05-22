@@ -5,7 +5,7 @@ The FlatEarthUnion is the idea, step one is a decentralized archive dedicated to
 
 Our goal is not "debate", but the **documentation & archival of facts & logical arguments** for setting the foundation for future projects.
 
-## Archive Structure
+## 📁 Archive Structure
 Documents are organised into the following broad categories:
 *   **Celestial-Navigation** ('FEU-Documents/Celestial-Navigation/')
 *   **Geography** ('FEU-Documents/Geography/')
