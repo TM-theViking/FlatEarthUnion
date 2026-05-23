@@ -23,4 +23,4 @@ This repository is an **archival project**. The documents contained herein are p
 
 ---
 *Join the Union. Preserve the History.*
-<img width="1000" height="1000" alt="FEU-ALT7-Blue2-round" src="https://github.com/user-attachments/assets/7ae7a20d-1b45-4ff8-b8f2-f50d35531f73" />
+![FlatEarthUnion 2025 Logo](https://github.com/user-attachments/assets/7ae7a20d-1b45-4ff8-b8f2-f50d35531f73)
