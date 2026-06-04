@@ -1,7 +1,8 @@
 # FlatEarthUnion (FEU) - Document Archive
 
 ## 🏛️ Mission
-The FlatEarthUnion is the idea, step one is a decentralized archive dedicated to the preservation of documents authored by flatEarthers. Not everyone has the time to do the research themselves, at least this way they have a good foundation to start from.
+The FlatEarthUnion is the idea, step one is a decentralized archive dedicated to the preservation of documents authored by flatEarthers. 
+Not everyone has the time to do the research themselves, at least this way they have a good foundation to start from.
 
 Our goal is not "debate", but the **documentation & archival of facts & logical arguments** for setting the foundation for future projects.
 
