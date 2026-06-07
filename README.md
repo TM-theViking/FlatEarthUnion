@@ -8,10 +8,10 @@ Our goal is not "debate", but the **documentation & archival of facts & logical 
 
 ## 📁 Archive Structure
 Documents are organised into the following broad categories:
-- [Celestial-Navigation] ('FEU-Documents/Celestial-Navigation/')
-- [Geography] ('FEU-Documents/Geography/')
-- [NaturalScience-ScientificMethod] ('FEU-Documents/NaturalScience-ScientificMethod/')
-- [Physics] ('FEU-Documents/Physics/')
+- [Celestial-Navigation](FEU-Documents/Celestial-Navigation/)
+- [Geography](FEU-Documents/Geography/)
+- [NaturalScience-ScientificMethod](FEU-Documents/NaturalScience-ScientificMethod/)
+- [Physics](FEU-Documents/Physics/)
 
 ## 📥 How to Contribute
 1.  **Fork** this repository.
