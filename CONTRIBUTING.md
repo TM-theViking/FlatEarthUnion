@@ -2,15 +2,15 @@
 
 ## Current Categories
 We currently accept documents in these broad categories:
-1. 'FE-Docs/Celestial-Navigation/'
-2. 'FE-Docs/NaturalScience-ScientificMethod/'
-3. 'FE-Docs/Physics/'
-4. 'FE-Docs/Geography/'
+1. 'FEU-Docs/Celestial-Navigation/'
+2. 'FEU-Docs/NaturalScience-ScientificMethod/'
+3. 'FEU-Docs/Physics/'
+4. 'FEU-Docs/Geography/'
 
 ## Adding a New Category
 If your document does not fit into the categories above, you may propose a new folder.
 1. **fork** this repository.
-2. Create a new folder in 'FE-Docs/' (e.g., 'FE-Docs/YourNewCategoryFolder/').
+2. Create a new folder in 'FEU-Docs/' (e.g., 'FEU-Docs/YourNewCategoryFolder/').
 3. Submit a **Pull Request**.
    * *Note:* New categories require moderator approval to maintain organization.
   
